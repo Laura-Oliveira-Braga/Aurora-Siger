@@ -57,7 +57,7 @@ Trasnformar o pseudocódigo em código real:
 <img width="837" height="730" alt="Script em Python" src="https://github.com/user-attachments/assets/35c9f4ff-45db-4db3-9201-b38594450c04" />
 
 
-**1.4 Análise energética**
+**1.4 Análise energética:**
 A partir dos dados apresentados, calcular autonomia inicial considerando:
 - Capacidade total (kwh);
 - Carga atual (%);
@@ -74,7 +74,7 @@ Em Python:
 <img width="993" height="593" alt="Análise energética" src="https://github.com/user-attachments/assets/710fcb15-d39f-4b45-991e-f61101dbb159" />
 
 
-**1.5 Análise assistida por IA**
+**1.5 Análise assistida por IA:**
 Usando a assitintência de IA do próprio Google Collaboratory, eu solicitei qu o Gemini:
 - Classificasse os dados;
 - Identificasse possíveis anomalias;
@@ -89,7 +89,7 @@ Sua resposta dentro do python:
 <img width="1061" height="737" alt="Análise assistida por IA" src="https://github.com/user-attachments/assets/f9033332-171b-4bb8-b040-896d9dba45be" />
 
 
-**1.6 Refexão Crítica**
+**1.6 Refexão Crítica:**
 A exploração espacial exige uma postura ética rigorosa, é essencial garantir que cada decisão respeite a vida humana, os recursos naturais e o futuro das próximas gerações, inclui transparência, segurança e uso consciente dos investimentos, também envolve evitar a militarização do espaço e assegurar que o conhecimento adquirido seja compartilhado para benefício coletivo.
 
 Missões espaciais inspiram novas gerações, estimulam avanços científicos e tecnológicos e criam empregos, ao mesmo tempo, levantam questões sobre desigualdade, se apenas grandes potências ou corporações dominarem esse campo, o risco é ampliar disparidades globais, por outro lado, pode gerar inclusão, educação e até soluções.
